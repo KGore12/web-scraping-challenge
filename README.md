@@ -1,16 +1,17 @@
 # web-scraping-challenge
 # Missions_to_Mars
 
-# Analysis of 2017 Crime Data for Cuyahoga County, Ohio and Cleveland, Ohio
-## by Jacob Servidio, Kimberly Gore, Kristen Blanchard, Matt Kuhlmann & Julie Pyle
 
-### Part One: Analysis of Crime Data and Population in Cuyahoga County
+## by  Kimberly Gore
 
->> Utilized 2017 Crime Data obtained from the ![Ohio Office of Criminal Justice Services website](https://www.ocjs.ohio.gov/crime_stats_reports.stm#gsc.tab=0)
+### Part One: Scraping NASA Mars News
 
->> Obtained information stored as a CSV file to turn into a Data Frame for analysis utilizing Jupyter Notebook
-
->> Narrowed Data Frame to Cuyahoga County for analysis
+>> Scraped the [NASA Mars News Site](https://mars.nasa.gov/news/) and collected the latest News Title and Paragraph Text.
+>> First, I scraped the section of html with the data needed
+>> Then, I narrowed down the data until there was only the title and paragraph
+>> The latest News Title and Paragraph retrieved was:
+      * NASA InSight's 'Mole' Is Out of Sight
+      * Now that the heat probe is just below the Martian surface, InSight's arm will scoop some additional soil on top to help it keep digging so it can take Mars' temperature.
 
 >> Calculated total crime data for each Agency in Cuyahoga County
 

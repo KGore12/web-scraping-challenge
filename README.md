@@ -6,8 +6,11 @@
 ### NASA Mars News
 
 >> Scraped the [NASA Mars News Site](https://mars.nasa.gov/news/) and collected the latest News Title and Paragraph Text.
+
 >> First, I scraped the section of html with the data needed
+
 >> Then, I narrowed down the data until there was only the title and paragraph
+
 >> The latest News Title and Paragraph retrieved was:
       * NASA InSight's 'Mole' Is Out of Sight
       * Now that the heat probe is just below the Martian surface, InSight's arm will scoop some additional soil on top to help it keep digging so it can take Mars' temperature.

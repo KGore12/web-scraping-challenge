@@ -35,7 +35,7 @@ Insert Screenshot here
 >> Used Pandas to scrape the table containing facts about the planet including Diameter, Mass, etc.
 
 Insert Screenshot here of the data table
-
+![](https://github.com/KGore12/web-scraping-challenge/blob/main/Missions_to_Mars/images/Mars_Facts_table.png)
 
 
 

@@ -26,7 +26,7 @@
 
 
 Insert Screenshot here
-![](https://github.com/drjulie2105/Group_Project_1/blob/master/Crime_Cuyahoga/Output_Images/Crimes_per_County_df.PNG)
+![](https://github.com/KGore12/web-scraping-challenge/blob/main/Missions_to_Mars/images/JPL_Mars_Space_Images_-_Featured_Image.png)
 
 
 ### Mars Facts

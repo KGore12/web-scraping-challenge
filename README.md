@@ -25,7 +25,6 @@
 >> Retrieved the featured image link
 
 
-Insert Screenshot here
 ![](https://github.com/KGore12/web-scraping-challenge/blob/main/Missions_to_Mars/images/JPL_Mars_Space_Images_-_Featured_Image.png)
 
 
@@ -34,7 +33,6 @@ Insert Screenshot here
 
 >> Used Pandas to scrape the table containing facts about the planet including Diameter, Mass, etc.
 
-Insert Screenshot here of the data table
 ![](https://github.com/KGore12/web-scraping-challenge/blob/main/Missions_to_Mars/images/Mars_Facts_table.png)
 
 
@@ -59,7 +57,13 @@ Insert Screenshot here
 
 >> Created a template HTML file called index.html that will take the mars data dictionary and display all of the data in the appropriate HTML elements
 
+![](https://github.com/KGore12/web-scraping-challenge/blob/main/Missions_to_Mars/images/Hemispshere_Cerebrus.png, https://github.com/KGore12/web-scraping-challenge/blob/main/Missions_to_Mars/images/Hemispshere_Syrtis_Major.png)
 
+![](https://github.com/KGore12/web-scraping-challenge/blob/main/Missions_to_Mars/images/Mars_Facts_table.png)
+
+![](https://github.com/KGore12/web-scraping-challenge/blob/main/Missions_to_Mars/images/Mars_Facts_table.png)
+
+![](https://github.com/KGore12/web-scraping-challenge/blob/main/Missions_to_Mars/images/Mars_Facts_table.png)
 
 
 

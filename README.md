@@ -57,7 +57,7 @@ Insert Screenshot here
 
 >> Created a template HTML file called index.html that will take the mars data dictionary and display all of the data in the appropriate HTML elements
 
-![](https://github.com/KGore12/web-scraping-challenge/blob/main/Missions_to_Mars/images/Hemispshere_Cerebrus.png, https://github.com/KGore12/web-scraping-challenge/blob/main/Missions_to_Mars/images/Hemispshere_Syrtis_Major.png)
+![](https://github.com/KGore12/web-scraping-challenge/blob/main/Missions_to_Mars/images/Hemispshere_Cerebrus.png) ![]https://github.com/KGore12/web-scraping-challenge/blob/main/Missions_to_Mars/images/Hemispshere_Syrtis_Major.png)
 
 ![](https://github.com/KGore12/web-scraping-challenge/blob/main/Missions_to_Mars/images/Mars_Facts_table.png)
 

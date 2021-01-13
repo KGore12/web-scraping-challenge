@@ -163,35 +163,6 @@ def scrape_info():
 
     print("Mars Hemisphere Images: Scraping Complete!")
     
-    
-    
-    #counter = 0
-    #for div in hemispheres_img:
-        # Use Beautiful Soup's find() method to navigate and retrieve attributes
-        #link = div.find('a')
-        #href=link['href']
-        #img_title = div.a.find('h3')
-        #img_title = img_title.text
-
-        # Append the dictionary with the image url string and the hemisphere title to a list.
-        # This list will contain one dictionary for each hemisphere.
-        #imgtitles.append(img_title)
-        #next_page = base_url + href
-        #nextpage_urls.append({"title":img_title, "img url":next_page})
-        #counter = counter+1
-        #if (counter == 4):
-            #break
-
-    # Close the browser after scraping
-    #browser.quit()
-
-    # Mars 
-    #mars_dict = {
-        #"news_title": news_title,
-        #"news_p": news_p,
-        #"mars_facts": str(mars_facts),
-        #"hemisphere_images": nextpage_urls
-    #}
 
 #  Store all values in dictionary
     scraped_data = {
@@ -202,5 +173,4 @@ def scrape_info():
     }
 
 
-    #return mars_dict
     return scraped_data
